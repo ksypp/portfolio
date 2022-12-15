@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+section{
+
+}
+
+.bg01{position:relative;
+    width: 100%;
+    height: 9063px;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('img/bg01.png');
+}
+
+.bg02{
+    position:relative;
+    width: 100%;
+    height: 3474px;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('img/bg02.png');
+    
+}
+
